@@ -51,3 +51,6 @@ The hands on project on Exploratory Data Analysis with Seaborn is divided into t
    A good way to identify correlations between features is to visualize the correlation matrix as a heatmap. 
    We will make a note of the correlated features so that we can drop them from our data set before building a predictive model in the next project.
    In the next project, we will remove these correlated features and analyze the classification accuracy we get using XGBoost, a boosted decision tree classifier.       We will then employ various feature selection and feature extraction methods to get the most predictive features and improve our classification accuracy. 
+   
+   ## Author: MAHRUKH MALIK
+   ## Certificate Link: https://coursera.org/share/e0e62d719ab63efa163352b8cc4c7187
