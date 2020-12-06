@@ -3,21 +3,22 @@ Coursera Guided Project Network
 Project Structure
 
 The hands on project on Exploratory Data Analysis with Seaborn is divided into the following tasks:
-**Task 1: Introduction and Importing the Data
+
+*   Task 1: Introduction and Importing the Data
 
    In this task, we are introduced to the project and learning outcomes. 
    In this task we use Rhyme interface, we begin working in Jupyter Notebooks, a web-based interactive computational environment for creating notebook documents.
    Next, we will import essential libraries such as NumPy, pandas, Seaborn, and matplotlib.   
    Lastly, we use pandas to load the Breast Cancer Wisconsin (Diagnostic) Data Set.
 
-**Task 2: Separate Target from Features
+*  Task 2: Separate Target from Features
 
    Now that the data set is in memory, we can explore the characteristics of its attributes and instances.   
    We will drop columns that cannot be used for analysis and classification. 
    Note that this does not constitute feature selection. We are dropping columns that have no bearing on the analysis we will be conducting, and will instead clutter our analysis.   After producing descriptive statistics about the data, we will separate the target from the features.
    The target contains the diagnosis with binary class labels, M or B, for malignant and benign tumors respectively. 
 
-**Task 3: Diagnosis Distribution Visualization
+*  Task 3: Diagnosis Distribution Visualization
 
    A very common question during model evaluation is, "Why isn't the model I've picked predictive?".  Most often, it is a result of a class imbalance.
    In this task, we will use Seaborn's countplot() method to visualize the target distributions. 
